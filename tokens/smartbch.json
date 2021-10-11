@@ -1,5 +1,13 @@
 [
   {
+    "name": "Cheese",
+    "address": "0x09A4CDb1569563fF277aC457cED35fe2551aEC1D",
+    "symbol": "CHEESE",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/adnjoo/smartcheese/main/cheese_128.png"
+  },
+  {
     "name": "flexUSD",
     "address": "0x7b2B3C5308ab5b2a1d9a94d20D35CCDf61e05b72",
     "symbol": "flexUSD",
