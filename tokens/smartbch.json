@@ -262,5 +262,13 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xAFACB0004A91267b58e720E13DF570Dc6863c854/logo.png"
-  }
+  },
+  {
+    "name": "Mikado Pleasant",
+    "address": "0x6198FE4BD6349E9Cd3ac589011Ab02f6Db2c0461",
+    "symbol": "Mikado",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x6198FE4BD6349E9Cd3ac589011Ab02f6Db2c0461/logo.png"
+  },
 ]
