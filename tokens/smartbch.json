@@ -262,5 +262,13 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xAFACB0004A91267b58e720E13DF570Dc6863c854/logo.png"
+  },
+  {
+    "name": "Bismuth Win Bi",
+    "address": "0x2E1da8Eb00CD1FF9B201f51e3705D87e06313881",
+    "symbol": "BWB",
+    "decimals": 8,
+    "chainId": 10000,
+    "logoURI": "https://github.com/mistswapdex/assets/blob/master/blockchains/smartbch/assets/0x2E1da8Eb00CD1FF9B201f51e3705D87e06313881/logo.png"
   }
 ]
