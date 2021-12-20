@@ -399,4 +399,12 @@
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x2b591190FF951F60CB9424664155e57A402c1AdE/logo.png"
   }
+  {
+    "name": "Men Going Their Own Way",
+    "address": "0x6cC465Ee56764395F9C5ACfb752057354D31EA34",
+    "symbol": "MGTOW",
+    "decimals": 2,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x6cC465Ee56764395F9C5ACfb752057354D31EA34/logo.png"
+  }    
 ]
