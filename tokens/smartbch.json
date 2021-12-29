@@ -398,5 +398,13 @@
     "decimals": 3,
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x2b591190FF951F60CB9424664155e57A402c1AdE/logo.png"
+  },
+  {
+    "name": "TEEF Token",
+    "address": "0xe691221eD15BA1E2491B552db955191789d9a8d9",
+    "symbol": "TEEF",
+    "decimals": 4,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xe691221eD15BA1E2491B552db955191789d9a8d9/logo.png"
   }
 ]
