@@ -399,4 +399,12 @@
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x2b591190FF951F60CB9424664155e57A402c1AdE/logo.png"
   }
+   {
+    "name": "KidLambo",
+    "address": "0x35e1103C3A630805666AC124f3eA2F1b3d69C4Db",
+    "symbol": "KIDLAMBO",
+    "decimals": 9,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/wenlambotoken/assets/8d5b3846fc4e09408f82cb2058659a76f16db467/blockchains/smartbch/assets/0x35e1103C3A630805666AC124f3eA2F1b3d69C4Db/0x35e1103C3A630805666AC124f3eA2F1b3d69C4Db.png"
+  }
 ]
