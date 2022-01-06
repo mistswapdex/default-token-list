@@ -399,4 +399,12 @@
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x2b591190FF951F60CB9424664155e57A402c1AdE/logo.png"
   }
+  {
+    "name": "PumpParrots",
+    "address": "0x20539E145b86A388683CB067dE576303aEC6DdE3",
+    "symbol": "PUMP",
+    "decimals": 8,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x20539E145b86A388683CB067dE576303aEC6DdE3/logo.png"
+  }
 ]
