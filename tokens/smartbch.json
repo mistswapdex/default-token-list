@@ -438,5 +438,13 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x659F04F36e90143fCaC202D4BC36C699C078fC98/logo.png"
+  },
+    {
+    "name": "SPACE"
+    "address": "0xB0c59E4B2249123b014c1C39D012BFCA58a8E1b7",
+    "symbol": "SPACE",
+    "decimals": 8,
+    "chainId": 10000,
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0xB0c59E4B2249123b014c1C39D012BFCA58a8E1b7/logo.png"
   }
 ]
