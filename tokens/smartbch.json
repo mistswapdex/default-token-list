@@ -454,8 +454,14 @@
     "decimals": 9,
     "chainId": 10000,
     "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x6e6D4ECE35EEd638A1153339F69E543B7ae5F776/logo.png"
-  },
-  {
+  },{
+    "name": "Döner",
+    "address": "0x14d9337f86d51dcad0d28f6439e00039e251b592",
+    "symbol": "DONER",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://i.imgur.com/4zuL2jP.png"
+  },{
     "name": "SPACE",
     "address": "0xB0c59E4B2249123b014c1C39D012BFCA58a8E1b7",
     "symbol": "SPACE",
