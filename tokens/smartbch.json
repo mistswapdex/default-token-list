@@ -475,7 +475,7 @@
     "name": "TROLLS",
     "address": "0x08D47684FB18B18ee71929f80e646cf979bbc846",
     "symbol": "TROLLS",
-    "decimals": 18,
+    "decimals": 0,
     "chainId": 10000,
     "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x08D47684FB18B18ee71929f80e646cf979bbc846/logo.png"
   }
