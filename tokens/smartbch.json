@@ -95,7 +95,7 @@
     "chainId": 10000,
     "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x0b00366fBF7037E9d75E4A569ab27dAB84759302/logo.png"
   },
-    {
+  {
     "name": "LAW US Dollar",
     "address": "0xE1E655BE6F50344e6dd708c27BD8D66492d6ecAf",
     "symbol": "lawUSD",
@@ -694,5 +694,13 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0xBc9bD8DDe6C5a8e1CBE293356E02f5984693b195/logo.png"
+  },
+  {
+    "name": "Surviville Coin",
+    "address": "0xE7B1076d0853a7aAa6FbB477886726ed03C6Fffd",
+    "symbol": "SVC",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0xE7B1076d0853a7aAa6FbB477886726ed03C6Fffd/logo.png"
   }
 ]
